@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+background-image: url(desktop-wallpaper-pokemon-minimalistic-dark-poke-balls-1920x1080-high-pokemon-dark-minimalist.jpg);
+background-size: contain;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    color: rgb(172, 79, 79);
+    font-size: 15   px;
+    text-align: center;
+    text-decoration: underline white;
+}
+
+.ai {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(136, 51, 51);
+font-size: 20px;
+text-align: center;
+text-decoration: underline white;
+
+}
+
+
+.momo img {
+    border-radius: 20px;
+    border:rgb(128, 20, 20) solid 10px;
+}
+.mimi img{
+    border-radius: 30px;
+    margin-top: 10px;
+    border:rgb(255, 255, 255) solid 10px;
+
+}
+.lohan{
+    font-family: monospace;
+    text-decoration: underline white;
+    font-size: 25px;
+    color: white
+}
+.alo {
+    color: white;
+    justify-content: center;
+}
+.sim {
+
+    color: white;
+    text-decoration: underline  red;
+    font-family: cursive;
+    font-size: 25px;
+
+}
+.Meo {
+    color: rgb(224, 55, 55);
+    text-decoration: underline white;
+    font-size: 30px;
+}
+footer img {
+    width: 40px;
+    height: 40px;
+}
+footer {
+    display: flex;
+justify-content: center;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(224, 55, 55);
+    margin: 10px;
+}
+footer p {
+    margin-top: 2px;
+    text-align: center;
+}
